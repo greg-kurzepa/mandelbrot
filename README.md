@@ -1,2 +1,2 @@
 # mandelbrot
-Mandelbrot image generator using python and numba
+Mandelbrot image generator using python and NVIDIA cuda & numba.
