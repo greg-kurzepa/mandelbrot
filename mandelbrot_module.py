@@ -31,6 +31,7 @@ def mandel_func(c, iterations):
             return(i)
     return(0)
 
+#wikipedia colour scheme (not used here)
 COLS = {
     0 : (66,30,15),
     1 : (25,7,26),
